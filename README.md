@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Helloooo+World!+👋;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-I'm Anna, a <strong>junior developer</strong> in training! <br> 
-I'm an undergraduate student in <strong>Information systems at UFJF</strong>! <br>
+I'm Anna, a <strong>junior developer</strong> in training and an undergraduate student in Information Systems at UFJF!<br> 
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>. 
 <br>
 <br>
